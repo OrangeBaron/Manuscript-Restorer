@@ -8,6 +8,8 @@ You don't need to install anything. Click the badge below to run the software di
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrangeBaron/Manuscript-Restorer/blob/main/Manuscript_Restorer.ipynb)
 
+![Sample image](https://github.com/OrangeBaron/Manuscript-Restorer/blob/main/sample.png)
+
 ## 🧐 Features
 - **Automatic Setup:** Installs all necessary libraries (OpenCV, PDF2Image).
 - **PDF & Image Support:** Works with JPG, PNG, and multi-page PDFs.
