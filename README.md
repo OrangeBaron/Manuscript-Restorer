@@ -6,7 +6,7 @@ This tool allows researchers, archivists, and enthusiasts to restore the legibil
 ## 🚀 Try it now
 You don't need to install anything. Click the badge below to run the software directly in your browser via Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/OrangeBaron/Manuscript-Restorer/blob/main/Manuscript_Restorer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrangeBaron/Manuscript-Restorer/blob/main/Manuscript_Restorer.ipynb)
 
 ## 🧐 Features
 - **Automatic Setup:** Installs all necessary libraries (OpenCV, PDF2Image).
